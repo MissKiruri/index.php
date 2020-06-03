@@ -1,0 +1,2 @@
+# index.php
+&lt;?php
